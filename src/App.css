@@ -1,0 +1,11 @@
+body{
+  background-color: #3e65fe;
+}
+/* Custom CSS file */
+/* Custom CSS file */
+@media (max-width: 380px) {
+  /* Your custom CSS styles here */
+   .main {
+    width: 380px;
+  }
+}
